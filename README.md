@@ -1,0 +1,1 @@
+# rekognition-celebrities-recognition-aws
